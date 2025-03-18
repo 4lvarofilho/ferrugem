@@ -1,0 +1,7 @@
+[package]
+name = "ferrugem_examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ferrugem = { path = "../ferrugem_proc_macro/" }

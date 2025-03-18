@@ -1,0 +1,1 @@
+pub use ferrugem_proc_macro::ferrugem;
