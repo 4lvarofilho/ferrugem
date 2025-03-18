@@ -1,6 +1,6 @@
 # ferrugem
 
-![](https://github.com/4lvarofilho/ferrugem/raw/principale/logo.png)
+![](https://github.com/4lvarofilho/ferrugem/blob/main/logo.png)
 
 cê tá cansado de escrever código Rust em inglês? curte falar um "caralho" aqui e ali? quer tentar uma parada diferenciada, em uma linguagem exótica? quer trazer um _brazilian touch_ aos seus programas?
 
